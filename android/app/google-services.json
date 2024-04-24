@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "127463962649",
+    "project_id": "electronicsshop2-bffd0",
+    "storage_bucket": "electronicsshop2-bffd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127463962649:android:3f30fdfd44a3c9d0b61288",
+        "android_client_info": {
+          "package_name": "com.example.electronics_shop2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127463962649-gdgs6bck5fhur6jgbc4gmjm33jik0kon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.electronics_shop2",
+            "certificate_hash": "c2a270571e8d23987bb97ccdad76479101595b4d"
+          }
+        },
+        {
+          "client_id": "127463962649-5vce1u7o9ifgrnp0s8evvghkgtdrbn01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOrC8wei9n68Sw46wZXC6q9YlkK5w15Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127463962649-5vce1u7o9ifgrnp0s8evvghkgtdrbn01.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127463962649-p5a7mapgnutcb9b6et2nedkcmlit5sbd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.electronicsShop2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
